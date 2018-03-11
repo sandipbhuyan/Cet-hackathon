@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="{{asset('css/ace-skins.min.css')}}" />
     <link rel="stylesheet" href="{{asset('css/ace-rtl.min.css')}}" />
     <link rel="stylesheet" href="{{asset('css/ace-ie.min.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/dev-files.css')}}" />
     <script src="{{asset('js/ace-extra.min.js')}}"></script>
     <script src="{{asset('js/html5shiv.min.js')}}"></script>
     <script src="{{asset('js/respond.min.js')}}"></script>
@@ -24,7 +25,7 @@
 <div id="navbar" class="navbar navbar-default    navbar-collapse       h-navbar ace-save-state">
     <div class="navbar-container ace-save-state" id="navbar-container">
         <div class="navbar-header pull-left">
-            <a href="{{url('admin/home')}}" class="navbar-brand">
+            <a href="{{url('/home')}}" class="navbar-brand">
                 <small>
                     <i class="fa fa-cogs"></i>
                     Sandip's Dashboard
