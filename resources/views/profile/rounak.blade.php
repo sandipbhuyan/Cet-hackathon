@@ -424,7 +424,7 @@
                                                 <div class="profile-info-name">Passout Branch </div>
 
                                                 <div class="profile-info-value">
-                                                    <span>Information technology</span>
+                                                    <span>Computer Science and Engineering</span>
                                                 </div>
                                             </div>
 

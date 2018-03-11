@@ -15,13 +15,13 @@ class AdminTable extends Seeder
         DB::table('users')->insert([
             "name" => "Sandip Bhuyan",
             "email" => "sandipbhuyan@gmail.com",
-            "password" => Hash::make("sb28f97"),
+            "password" => Hash::make("11111"),
             "admin" => 1,
         ]);
         DB::table('users')->insert([
             "name" => "Sandip Bhuyan",
             "email" => "sandipbhuyan1@gmail.com",
-            "password" => Hash::make("sb28f97"),
+            "password" => Hash::make("11111"),
             "admin" => 1,
         ]);
     }

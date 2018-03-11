@@ -78,6 +78,18 @@
                                     Alumni
                                 </a>
                             </li>
+                            <li>
+                                <a data-toggle="tab" href="#clubs">
+                                    <i class="black ace-icon fa fa-users bigger-120"></i>
+                                    Clubs
+                                </a>
+                            </li>
+                            <li>
+                                <a data-toggle="tab" href="#internships">
+                                    <i class="black ace-icon fa fa-users bigger-120"></i>
+                                    Internships
+                                </a>
+                            </li>
 
 
                         </ul>
@@ -300,7 +312,7 @@
                                     <div class="itemdiv memberdiv">
                                         <div class="inline pos-rel">
                                             <div class="user">
-                                                <a href="{{url('ashutosh')}}">
+                                                <a href="{{url('asutosh')}}">
                                                     <img src="{{url('img/ashutosh.jpg')}}" alt="Bob Doe's avatar" />
                                                 </a>
                                             </div>
@@ -556,8 +568,173 @@
                                 </ul>
                             </div>
 
-                            <!-- END SENIROS TAB -->
 
+                            <div id="internships" class="tab-pane">
+                                <div class="profile-users clearfix">
+                                    <div class="col-xs-16 col-sm-12 widget-container-col" id="widget-container-col-9">
+                                        <div class="widget-box widget-color-pink" id="widget-box-9">
+                                            <div class="widget-header" style="background: #468eb7;">
+                                                <h5 class="widget-title">SawApps</h5>
+
+                                                <div class="widget-toolbar">
+                                                    <a href="#" data-action="collapse">
+                                                        <i class="1 ace-icon fa fa-chevron-up bigger-125"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="widget-body">
+                                                <div class="widget-main">
+                                                    <p class="alert alert-info">
+                                                        
+                                                        Service based and Product based Startup. We focus on a range of different technologies that we use in life without giving them a second thought such as Websites, Android, IOS apps
+                                                    </p>
+                                                    <p class="alert alert-info">
+                                                        <i class="fas fa-cloud"></i>
+                                                        Unity Developer Intern/Full Time
+                                                    </p>
+                                                </div>
+
+                                                <div class="widget-toolbox padding-8 clearfix">
+                                                    <button class="btn btn-xs btn-success pull-right">
+                                                        <span class="bigger-110">Apply now</span>
+
+                                                        <i class="ace-icon fa fa-arrow-right icon-on-right"></i>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="hr hr10 hr-double"></div>
+
+                                <ul class="pager pull-right">
+                                    <li class="previous disabled">
+                                        <a href="#">&larr; Prev</a>
+                                    </li>
+
+                                    <li class="next">
+                                        <a href="#">Next &rarr;</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- END SENIROS TAB -->
+                            <div id="clubs" class="tab-pane">
+                                <div class="profile-users clearfix">
+                                    <div class="itemdiv memberdiv">
+                                        <div class="inline pos-rel">
+                                            <div class="user">
+                                                <a href="#">
+                                                    <img src="{{url('img/zairza.jpg')}}" alt="Bob Doe's avatar" style="height: 67px;" />
+                                                </a>
+                                            </div>
+
+                                            <div class="body">
+                                                <div class="name">
+                                                    <a href="#">
+                                                        <span class="user-status status-online"></span>
+                                                        Zairza
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="popover">
+                                                <div class="arrow"></div>
+
+                                                <div class="popover-content">
+                                                    <div class="bolder">Technical Secretary</div>
+                                                    <div>4th Year</div>
+
+                                                    <div class="time">
+                                                        <i class="ace-icon fa fa-clock-o middle bigger-120 orange"></i>
+                                                        <span class="green"> 20 mins ago </span>
+                                                    </div>
+
+                                                    <div class="hr dotted hr-8"></div>
+
+                                                    <div class="tools action-buttons">
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-facebook-square blue bigger-150"></i>
+                                                        </a>
+
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-twitter-square light-blue bigger-150"></i>
+                                                        </a>
+
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-google-plus-square red bigger-150"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="itemdiv memberdiv">
+                                        <div class="inline pos-rel">
+                                            <div class="user">
+                                                <a href="{{url('sai')}}">
+                                                    <img src="{{url('img/en.jpg')}}" alt="Rose Doe's avatar"  />
+                                                </a>
+                                            </div>
+
+                                            <div class="body">
+                                                <div class="name">
+                                                    <a href="#">
+                                                        <span class="user-status status-offline"></span>
+                                                        Energy Club
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="popover">
+                                                <div class="arrow"></div>
+
+                                                <div class="popover-content">
+                                                    <div class="bolder">Data Analyst</div>
+                                                    <div>4th Year</div>
+
+                                                    <div class="time">
+                                                        <i class="ace-icon fa fa-clock-o middle bigger-120 grey"></i>
+                                                        <span class="grey"> 30 min ago </span>
+                                                    </div>
+
+                                                    <div class="hr dotted hr-8"></div>
+
+                                                    <div class="tools action-buttons">
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-facebook-square blue bigger-150"></i>
+                                                        </a>
+
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-twitter-square light-blue bigger-150"></i>
+                                                        </a>
+
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-google-plus-square red bigger-150"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="hr hr10 hr-double"></div>
+
+                                <ul class="pager pull-right">
+                                    <li class="previous disabled">
+                                        <a href="#">&larr; Prev</a>
+                                    </li>
+
+                                    <li class="next">
+                                        <a href="#">Next &rarr;</a>
+                                    </li>
+                                </ul>
+                            </div>
                             <!-- RESOURCES -->
                             <div id="resource-tab" class="tab-pane">
                                 <main>

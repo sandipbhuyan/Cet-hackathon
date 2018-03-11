@@ -30,7 +30,7 @@
                         <h1>
                             <i class="ace-icon fa fa-leaf green"></i>
                             <span class="red">CET</span>
-                            <span class="white" id="id-text2">Forum</span>
+                            <span class="white" id="id-text2">Minds</span>
                         </h1>
                         <h4 class="blue" id="id-company-text">&copy; CET</h4>
                     </div>
