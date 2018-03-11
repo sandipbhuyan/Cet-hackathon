@@ -131,6 +131,14 @@
 
                 <b class="arrow"></b>
             </li>
+            <li class="">
+                <a href="{{ url('statistics') }}">
+                    <i class="menu-icon fa fa-tachometer"></i>
+                    <span class="menu-text"> Statistics </span>
+                </a>
+
+                <b class="arrow"></b>
+            </li>
         </ul><!-- /.nav-list -->
 
         <div class="sidebar-toggle sidebar-collapse" id="sidebar-collapse">

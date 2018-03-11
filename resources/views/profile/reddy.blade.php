@@ -367,7 +367,7 @@
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-3 center">
 															<span class="profile-picture">
-																<img class="editable img-responsive" alt="Alex's Avatar" id="avatar2" src="{{url('img/ready_bhai.jpg')}}" />
+																<img class="editable img-responsive" alt="Alex's Avatar" id="avatar2" src="{{url('img/reddy_bhai.jpg')}}" />
 															</span>
 
                                         <div class="space space-4"></div>

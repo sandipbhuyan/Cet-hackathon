@@ -101,10 +101,10 @@
                                         <li>Supervised and unsupervised learning</li>
                                     </ol>
 
-                                    <h4 style="color:#438EB9">Prerequisites</h3>
+                                    <h4 style="color:#438EB9">Prerequisites</h4>
                                         <p>General representational issues in AI, some AI programming, and at least some background in statistics and information theory.</p>
 
-                                        <h4 style="color:#438EB9">Intro to machine learning</h3>
+                                        <h4 style="color:#438EB9">Intro to machine learning</h4>
 
                                             ​<iframe width="560" height="315" src="https://www.youtube.com/embed/PPLop4L2eGk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                                 </div><!-- /.row -->
@@ -130,19 +130,19 @@
                                             <div class="dialogs">
                                                 <div class="itemdiv dialogdiv">
                                                     <div class="user">
-                                                        <img alt="Alexa's Avatar" src="assets/images/avatars/avatar1.png" />
+                                                        <img alt="Alexa's Avatar" src="{{url('img/sandip.jpg')}}" />
                                                     </div>
 
                                                     <div class="body">
                                                         <div class="time">
                                                             <i class="ace-icon fa fa-clock-o"></i>
-                                                            <span class="green">4 sec</span>
+                                                            <span class="green">10 mins</span>
                                                         </div>
 
                                                         <div class="name">
-                                                            <a href="#">Manaswini D</a>
+                                                            <a href="#">Sandip Bhuyan</a>
                                                         </div>
-                                                        <div class="text">Machine Learning is Awesome!</div>
+                                                        <div class="text">I want to learn machine learning</div>
 
                                                         <div class="tools">
                                                             <a href="#" class="btn btn-minier btn-info">
@@ -154,19 +154,19 @@
 
                                                 <div class="itemdiv dialogdiv">
                                                     <div class="user">
-                                                        <img alt="John's Avatar" src="assets/images/avatars/avatar.png" />
+                                                        <img alt="Alexa's Avatar" src="{{url('img/rishav.jpg')}}" />
                                                     </div>
 
                                                     <div class="body">
                                                         <div class="time">
                                                             <i class="ace-icon fa fa-clock-o"></i>
-                                                            <span class="blue">38 sec</span>
+                                                            <span class="green">7 mins</span>
                                                         </div>
 
                                                         <div class="name">
-                                                            <a href="#">Rishav A</a>
+                                                            <a href="#">Rishab Agrawal</a>
                                                         </div>
-                                                        <div class="text">Everything is awesome!</div>
+                                                        <div class="text">Hello sandip you can start from the basics I am sending you some link that will help you</div>
 
                                                         <div class="tools">
                                                             <a href="#" class="btn btn-minier btn-info">
@@ -178,20 +178,19 @@
 
                                                 <div class="itemdiv dialogdiv">
                                                     <div class="user">
-                                                        <img alt="Bob's Avatar" src="assets/images/avatars/user.jpg" />
+                                                        <img alt="Alexa's Avatar" src="{{url('img/sandip.jpg')}}" />
                                                     </div>
 
                                                     <div class="body">
                                                         <div class="time">
                                                             <i class="ace-icon fa fa-clock-o"></i>
-                                                            <span class="orange">2 min</span>
+                                                            <span class="green">6 mins</span>
                                                         </div>
 
                                                         <div class="name">
-                                                            <a href="#">Ashutosh H</a>
-                                                            <span class="label label-info arrowed arrowed-in-right">admin</span>
+                                                            <a href="#">Sandip Bhuyan</a>
                                                         </div>
-                                                        <div class="text">When you are part of a team.</div>
+                                                        <div class="text">Thank you bhai for your help</div>
 
                                                         <div class="tools">
                                                             <a href="#" class="btn btn-minier btn-info">
@@ -203,19 +202,19 @@
 
                                                 <div class="itemdiv dialogdiv">
                                                     <div class="user">
-                                                        <img alt="Jim's Avatar" src="assets/images/avatars/avatar4.png" />
+                                                        <img alt="Alexa's Avatar" src="{{url('img/harsit.jpg')}}" />
                                                     </div>
 
                                                     <div class="body">
                                                         <div class="time">
                                                             <i class="ace-icon fa fa-clock-o"></i>
-                                                            <span class="grey">3 min</span>
+                                                            <span class="green"> 4 mins</span>
                                                         </div>
 
                                                         <div class="name">
-                                                            <a href="#">Sanjay R</a>
+                                                            <a href="#">Harshit Mohapatra</a>
                                                         </div>
-                                                        <div class="text">Everything is awesoooooome!</div>
+                                                        <div class="text">Don't forget to learn supervised and unsupervised learning</div>
 
                                                         <div class="tools">
                                                             <a href="#" class="btn btn-minier btn-info">
@@ -227,19 +226,19 @@
 
                                                 <div class="itemdiv dialogdiv">
                                                     <div class="user">
-                                                        <img alt="Alexa's Avatar" src="assets/images/avatars/avatar1.png" />
+                                                        <img alt="Alexa's Avatar" src="{{url('img/sandip.jpg')}}" />
                                                     </div>
 
                                                     <div class="body">
                                                         <div class="time">
                                                             <i class="ace-icon fa fa-clock-o"></i>
-                                                            <span class="green">4 min</span>
+                                                            <span class="green">2 mins</span>
                                                         </div>
 
                                                         <div class="name">
-                                                            <a href="#">Manaswini D</a>
+                                                            <a href="#">Sandip Bhuyan</a>
                                                         </div>
-                                                        <div class="text">When you're living your Dreams. :)</div>
+                                                        <div class="text">Sure bhai</div>
 
                                                         <div class="tools">
                                                             <a href="#" class="btn btn-minier btn-info">
@@ -248,9 +247,34 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
+                                                <div class="itemdiv dialogdiv">
+                                                    <div class="user">
+                                                        <img alt="Alexa's Avatar" src="{{url('img/rishav.jpg')}}" />
+                                                    </div>
+
+                                                    <div class="body">
+                                                        <div class="time">
+                                                            <i class="ace-icon fa fa-clock-o"></i>
+                                                            <span class="green">40 sec</span>
+                                                        </div>
+
+                                                        <div class="name">
+                                                            <a href="#">Rishav</a>
+                                                        </div>
+                                                        <div class="text">You can work in my projects</div>
+
+                                                        <div class="tools">
+                                                            <a href="#" class="btn btn-minier btn-info">
+                                                                <i class="icon-only ace-icon fa fa-share"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
                                             </div>
 
-                                            <form>
+                                            <form ng-app="">
                                                 <div class="form-actions">
                                                     <div class="input-group">
                                                         <input placeholder="Type your message here ..." type="text" class="form-control" name="message" />
@@ -433,6 +457,55 @@
                                                     <a href="#">
                                                         <span class="user-status status-idle"></span>
                                                         Harshit Mahapatra
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                            <div class="popover">
+                                                <div class="arrow"></div>
+
+                                                <div class="popover-content">
+                                                    <div class="bolder">Neural Netowrks Expert</div>
+
+
+                                                    <div class="time">
+                                                        <i class="ace-icon fa fa-clock-o middle bigger-120 orange"></i>
+                                                        <span class=""> 40 minutes idle </span>
+                                                    </div>
+
+                                                    <div class="hr dotted hr-8"></div>
+
+                                                    <div class="tools action-buttons">
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-facebook-square blue bigger-150"></i>
+                                                        </a>
+
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-twitter-square light-blue bigger-150"></i>
+                                                        </a>
+
+                                                        <a href="#">
+                                                            <i class="ace-icon fa fa-google-plus-square red bigger-150"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="itemdiv memberdiv">
+                                        <div class="inline pos-rel">
+                                            <div class="user">
+                                                <a href="{{url('reddy')}}">
+                                                    <img src="{{url('img/reddy_bhai.jpg')}}" alt="Alex Doe's avatar" />
+                                                </a>
+                                            </div>
+
+                                            <div class="body">
+                                                <div class="name">
+                                                    <a href="#">
+                                                        <span class="user-status status-idle"></span>
+                                                        Sanjay Reddy
                                                     </a>
                                                 </div>
                                             </div>
