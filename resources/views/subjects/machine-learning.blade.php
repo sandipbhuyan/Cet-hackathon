@@ -586,7 +586,7 @@
                                             <div class="widget-body">
                                                 <div class="widget-main">
                                                     <p class="alert alert-info">
-                                                        
+
                                                         Service based and Product based Startup. We focus on a range of different technologies that we use in life without giving them a second thought such as Websites, Android, IOS apps
                                                     </p>
                                                     <p class="alert alert-info">

@@ -53,7 +53,7 @@
             <ul class="nav ace-nav">
                 <li class="light-blue dropdown-modal user-min">
                     <a data-toggle="dropdown" href="#" class="dropdown-toggle">
-                        <img class="nav-user-photo" src="https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-9/18274990_1304628866272311_1833010711133904197_n.jpg?oh=9c853c5e42d5b261b9d34f34dba504bb&oe=5A5AD61B" alt="Jason's Photo" />
+                        <img class="nav-user-photo" src="{{url('img/sandip.jpg')}}" alt="Jason's Photo" />
                         <span class="user-info">
 									<small>Welcome,</small>
 									Sandip
